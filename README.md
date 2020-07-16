@@ -39,3 +39,5 @@ The Kivy Architecture Consists of the following:
 8) Toggle Button
 9) Switch
 10) Video
+
+Widgets are eventful python objects that have a representation in the browser, often as a control like a slider, textbox, etc.
