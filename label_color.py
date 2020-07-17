@@ -1,8 +1,3 @@
-'''
-Created on 16-Jul-2020
-
-@author: Toshinee Bhasin
-'''
 # How to do Styling in label ?
 # color =[0.41, 0.42, 0.74, 1] - blue
 # color =[0.51, 0, 0.38, 10] -pink
