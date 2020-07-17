@@ -1,8 +1,3 @@
-'''
-Created on 16-Jul-2020
-
-@author: Toshinee Bhasin
-'''
 # How to markup the text ?
 
 import kivy 
