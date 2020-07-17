@@ -1,9 +1,4 @@
 '''
-Created on 16-Jul-2020
-
-@author: Toshinee Bhasin
-'''
-'''
 Label widget 
 The Label widget is for rendering text. It supports ascii and unicode strings.
 Label is the text which we want to add on our window, give to the buttons and 
